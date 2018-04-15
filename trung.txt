@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 trung khung,deptrai, an cut
+=======
+trung khung,deptrai, dang cap
+>>>>>>> d55b955438702dc82b40f0267cd4b220637b4b0b
